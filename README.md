@@ -5,9 +5,9 @@
   ![](https://img.shields.io/badge/-Front--End_&_Full--Stack_Enthusiast-000000?style=flat-square&logo=&logoColor=00FF00&labelColor=000000&color=000000&textColor=00FF00)
   ![](https://img.shields.io/badge/-Problem_Solver_&_Lifelong_Learner-000000?style=flat-square&logo=&logoColor=00FF00&labelColor=000000&color=000000&textColor=00FF00)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/emilija-blink)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmiblinkeviciute@gmail.com)
 
 </div>
 
